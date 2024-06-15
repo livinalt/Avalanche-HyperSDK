@@ -259,7 +259,7 @@ Q24fnDMPvxtgWrT
 ```
 
 ## Author
-(Jeremiah Samuel)[livinalt@gmail.com]
+Jeremiah Samuel - livinalt@gmail.com
 
 ## Contributing
 
