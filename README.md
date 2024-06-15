@@ -258,6 +258,9 @@ continue (y/n): y
 Q24fnDMPvxtgWrT
 ```
 
+## Author
+(Jeremiah Samuel)[livinalt@gmail.com]
+
 ## Contributing
 
 If you want to make contributions, feel free to clone the repo and proceed
