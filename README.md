@@ -11,7 +11,7 @@ The TokenVM project enables the creation of a custom blockchain with full contro
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Metacrafters/tokenvm.git
+    git clone https://github.com/livinalt/Avalanche-HyperSDK
     cd tokenvm
     ```
 
@@ -20,13 +20,6 @@ The TokenVM project enables the creation of a custom blockchain with full contro
     go mod tidy
     ```
 
-## Configuration
-
-1. **Project Constants**
-    - Navigate to `consts/consts.go` and add the required configurations.
-
-2. **Register Actions**
-    - Go to `registry/registry.go` and register the `Create_Asset` and `Mint_Asset` actions.
 
 ## Running the VM
 
