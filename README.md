@@ -268,4 +268,4 @@ If you want to make contributions, feel free to clone the repo and proceed
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the BSD-3-Clause license.
